@@ -5,7 +5,7 @@
 ###########################################
 #####   read in and process data set  #####
 ###########################################
-dat=read.csv('/Users/lisun/GSU/Computational/finalproject/datasets/Population_age65+/API_SP.POP.65UP.TO.ZS_DS2_en_csv_v2_10517738.csv', header = F, row.names = 1 ) 
+dat=read.csv('/Users/lisun/GSU/Computational/Population_age65+/API_SP.POP.65UP.TO.ZS_DS2_en_csv_v2_10517738.csv', header = F, row.names = 1 ) 
 
 #### clean data
 # str(dat)          # 267 obs. of  63 variables
